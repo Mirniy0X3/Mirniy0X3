@@ -63,3 +63,9 @@ Always eager to learn new technologies, optimize systems, and contribute to open
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/Mirniy0X3)  
 
 ---
+
+## 🐍 Snake Contributions / Змейка  
+
+![snake gif](https://raw.githubusercontent.com/Mirniy0X3/Mirniy0X3/output/github-contribution-grid-snake.svg)
+
+---
