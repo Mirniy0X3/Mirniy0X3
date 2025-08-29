@@ -82,7 +82,7 @@ Always eager to learn new technologies, optimize systems, and contribute to open
 
 ---
 
-## 🐍 Snake Contributions / Змейка  
+## 🐍 Snake Contributions 
 
 ![snake gif](https://github.com/Mirniy0X3/Mirniy0X3/blob/output/github-contribution-grid-snake.svg)
 
