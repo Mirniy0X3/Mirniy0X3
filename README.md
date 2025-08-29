@@ -64,6 +64,18 @@ Always eager to learn new technologies, optimize systems, and contribute to open
 
 ---
 
+## 🏆 GitHub Trophies  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Mirniy0X3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+## 📈 GitHub Activity Graph  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mirniy0X3&theme=tokyo-night)
+
+---
+
 ## 🐍 Snake Contributions / Змейка  
 
 ![snake gif](https://github.com/Mirniy0X3/Mirniy0X3/blob/output/github-contribution-grid-snake.svg)
