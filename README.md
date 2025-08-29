@@ -8,7 +8,7 @@
 ## 🚀 About Me / Обо мне  
 
 **EN:**  
-Hello! I'm Viktor Litvinov, a passionate **Network Engineer & Full-Stack Enthusiast**.  
+Hello! I'm Viktor, a passionate **Network Engineer & Full-Stack Enthusiast**.  
 I specialize in **Linux, Cisco, Huawei, Mikrotik, Zabbix, Python, and Bash scripting**.  
 Always eager to learn new technologies, optimize systems, and contribute to open-source projects.  
 
@@ -18,7 +18,7 @@ Always eager to learn new technologies, optimize systems, and contribute to open
 - 📊 Interests: Clean infrastructure, automation, security  
 
 **RU:**  
-Привет! Я Виктор Литвинов, увлечённый **сетевой инженер и энтузиаст full-stack разработки**.  
+Привет! Я Виктор, увлечённый **сетевой инженер и энтузиаст full-stack разработки**.  
 Мои основные направления: **Linux, Cisco, Huawei, Mikrotik, Zabbix, Python и Bash-скрипты**.  
 Мне всегда интересно изучать новые технологии, автоматизировать процессы и участвовать в open-source проектах.  
 
