@@ -31,16 +31,25 @@ Always eager to learn new technologies, optimize systems, and contribute to open
 
 ## 🛠️ Skills / Навыки  
 
-<p>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU-Bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Zabbix-CC0000?style=flat&logo=Zabbix&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=Cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Huawei-FF0000?style=flat&logo=Huawei&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Mikrotik-0099CC?style=flat&logo=Mikrotik&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+<p align="center">
+  <!-- Networking -->
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
+  <img src="https://img.shields.io/badge/MikroTik-293241?style=for-the-badge&logo=mikrotik&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zyxel-004080?style=for-the-badge&logo=zyxel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eltex-0078D7?style=for-the-badge&logo=telecom&logoColor=white" />
+
+  <!-- Monitoring -->
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
+
+  <!-- Dev -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
+  <!-- Power / Protection -->
+  <img src="https://img.shields.io/badge/ЗРЗ-FF8C00?style=for-the-badge&logo=bolt&logoColor=white" />
 </p>
 
 ---
