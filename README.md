@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me / Обо мне  
+## 🚀 About Me 
 
 **EN:**  
 Hello! I'm Viktor, a passionate **Network Engineer & Full-Stack Enthusiast**.  
@@ -17,19 +17,9 @@ Always eager to learn new technologies, optimize systems, and contribute to open
 - 💻 Scripting with **Python** & **Bash**  
 - 📊 Interests: Clean infrastructure, automation, security  
 
-**RU:**  
-Привет! Я Виктор, увлечённый **сетевой инженер и энтузиаст full-stack разработки**.  
-Мои основные направления: **Linux, Cisco, Huawei, Mikrotik, Zabbix, Python и Bash-скрипты**.  
-Мне всегда интересно изучать новые технологии, автоматизировать процессы и участвовать в open-source проектах.  
-
-- 🌐 Мониторинг и автоматизация с помощью **Zabbix**  
-- 🖧 Опыт работы с сетевым оборудованием **Cisco, Huawei и Mikrotik**  
-- 💻 Скрипты на **Python** и **Bash**  
-- 📊 Интересы: инфраструктура, автоматизация, безопасность  
-
 ---
 
-## 🛠️ Skills / Навыки  
+## 🛠️ Skills
 
 <p align="center">
   <!-- Networking -->
@@ -51,18 +41,17 @@ Always eager to learn new technologies, optimize systems, and contribute to open
 
 ---
 
-## 📊 GitHub Stats / Статистика  
+## 📊 GitHub Stats 
 
 **EN:** My GitHub activity and stats  
 **RU:** Моя активность и статистика на GitHub  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mirniy0X3&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mirniy0X3&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirniy0X3&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌍 Connect with me / Связь со мной  
+## 🌍 Connect with me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/)  
